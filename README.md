@@ -2,7 +2,7 @@
 
 > Your local friend for navigating Delhi's incredible street food scene
 
-A specialized Kiro CLI agent that provides authentic, practical street food recommendations across Delhi using comprehensive local knowledge. Built for the Kiro CLI Challenge.
+A specialized agent that provides authentic, practical street food recommendations across Delhi using comprehensive local knowledge. Built for the Kiro Week 5 Challenge-"The Local Guide".
 
 ## 🎯 What This Agent Does
 
@@ -198,7 +198,7 @@ This project demonstrates Kiro CLI's power to create:
 
 ## 🤝 Contributing
 
-While this is a Kiro CLI Challenge submission, suggestions for improving the knowledge base are welcome:
+While this is a Kiro Week 5 Challenge submission, suggestions for improving the knowledge base are welcome:
 - New dishes or locations
 - Updated prices or timings
 - Better local tips
@@ -212,7 +212,7 @@ MIT License - feel free to fork and adapt for your city!
 
 ## 🙏 Acknowledgments
 
-- Built for the Kiro CLI Challenge
+- Built for the Kiro Week 5 Challenge-"The Local Guide"
 - Knowledge curated from years of Delhi street food exploration
 - Inspired by the incredible food culture of Delhi
 - Powered by Kiro CLI's agent framework
@@ -227,12 +227,12 @@ See the `screenshots/` folder for:
 
 ## 🔗 Links
 
-- [Kiro CLI Documentation](https://docs.kiro.dev/)
-- [Kiro CLI Challenge](https://docs.kiro.dev/challenge)
+- [Kiro Documentation](https://docs.kiro.dev/)
+- [Kiro Week 5 Challenge-"The Local Guide"](https://vision.hack2skill.com/event/ai-for-bharat/dashboard/submissions?utm_source=hack2skill&utm_medium=homepage)
 - [Delhi Metro Map](https://www.delhimetrorail.com/)
 
 ---
 
 **Made with 🍛 for Delhi food lovers**
 
-**For Kiro CLI Challenge | December 2024**
+**For Kiro Week 5 Challenge-"The Local Guide"**
